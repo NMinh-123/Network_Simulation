@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/applications
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-applications-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-applications-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-applications-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-applications-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-applications-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,42 +56,36 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/helper/bulk-send-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/helper/on-off-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/helper/packet-sink-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/helper/three-gpp-http-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/helper/udp-client-server-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/helper/udp-echo-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/application-packet-probe.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/bulk-send-application.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/onoff-application.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/packet-loss-counter.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/packet-sink.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/seq-ts-echo-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/seq-ts-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/seq-ts-size-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/three-gpp-http-client.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/three-gpp-http-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/three-gpp-http-server.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/three-gpp-http-variables.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/udp-client.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/udp-echo-client.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/udp-echo-server.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/udp-server.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/applications/model/udp-trace-client.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/applications-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/helper/bulk-send-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/helper/on-off-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/helper/packet-sink-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/helper/three-gpp-http-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/helper/udp-client-server-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/helper/udp-echo-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/application-packet-probe.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/bulk-send-application.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/onoff-application.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/packet-loss-counter.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/packet-sink.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/seq-ts-echo-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/seq-ts-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/seq-ts-size-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/three-gpp-http-client.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/three-gpp-http-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/three-gpp-http-server.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/three-gpp-http-variables.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/udp-client.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/udp-echo-client.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/udp-echo-server.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/udp-server.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/applications/model/udp-trace-client.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/applications-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/applications/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/applications/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/applications/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

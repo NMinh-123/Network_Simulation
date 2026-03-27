@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/wimax
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-wimax-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-wimax-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-wimax-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,63 +56,57 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/helper/wimax-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-channel.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-net-device.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-net-device.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ss-net-device.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/cid.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/cid-factory.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ofdm-downlink-frame-prefix.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-connection.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ss-record.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/mac-messages.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/dl-mac-messages.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ul-mac-messages.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-phy.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/simple-ofdm-wimax-phy.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/simple-ofdm-wimax-channel.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/send-params.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/service-flow.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ss-manager.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/connection-manager.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-mac-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-mac-queue.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/crc8.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/service-flow-manager.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-uplink-scheduler.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-uplink-scheduler-simple.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-uplink-scheduler-mbqos.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-uplink-scheduler-rtps.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ul-job.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-scheduler.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-scheduler-simple.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-scheduler-rtps.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/service-flow-record.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/snr-to-block-error-rate-record.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/snr-to-block-error-rate-manager.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/simple-ofdm-send-param.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ss-service-flow-manager.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bs-service-flow-manager.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/cs-parameters.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ipcs-classifier-record.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-tlv.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/ipcs-classifier.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/bvec.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax/model/wimax-mac-to-mac-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/wimax-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/helper/wimax-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-channel.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-net-device.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-net-device.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ss-net-device.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/cid.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/cid-factory.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ofdm-downlink-frame-prefix.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-connection.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ss-record.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/mac-messages.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/dl-mac-messages.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ul-mac-messages.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-phy.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/simple-ofdm-wimax-phy.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/simple-ofdm-wimax-channel.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/send-params.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/service-flow.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ss-manager.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/connection-manager.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-mac-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-mac-queue.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/crc8.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/service-flow-manager.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-uplink-scheduler.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-uplink-scheduler-simple.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-uplink-scheduler-mbqos.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-uplink-scheduler-rtps.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ul-job.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-scheduler.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-scheduler-simple.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-scheduler-rtps.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/service-flow-record.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/snr-to-block-error-rate-record.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/snr-to-block-error-rate-manager.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/simple-ofdm-send-param.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ss-service-flow-manager.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bs-service-flow-manager.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/cs-parameters.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ipcs-classifier-record.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-tlv.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/ipcs-classifier.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/bvec.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/wimax/model/wimax-mac-to-mac-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/wimax-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

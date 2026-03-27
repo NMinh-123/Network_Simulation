@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 # Utility rule file for uninstall_pkgconfig_internet-apps.
 
@@ -85,6 +85,6 @@ CMakeFiles/uninstall_pkgconfig_internet-apps.dir/clean:
 .PHONY : CMakeFiles/uninstall_pkgconfig_internet-apps.dir/clean
 
 CMakeFiles/uninstall_pkgconfig_internet-apps.dir/depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles/uninstall_pkgconfig_internet-apps.dir/DependInfo.cmake "--color=$(COLOR)" uninstall_pkgconfig_internet-apps
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles/uninstall_pkgconfig_internet-apps.dir/DependInfo.cmake "--color=$(COLOR)" uninstall_pkgconfig_internet-apps
 .PHONY : CMakeFiles/uninstall_pkgconfig_internet-apps.dir/depend
 

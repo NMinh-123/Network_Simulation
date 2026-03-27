@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/scratch
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/scratch
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,13 +39,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/scratch/nested-subdir/cmake_install.cmake")
+  include("/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/scratch/nested-subdir/cmake_install.cmake")
 
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/scratch/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/scratch/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

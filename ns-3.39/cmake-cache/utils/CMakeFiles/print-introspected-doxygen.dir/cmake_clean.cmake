@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/ns3.39-print-introspected-doxygen-default"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/ns3.39-print-introspected-doxygen-default.pdb"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/ns3.39-print-introspected-doxygen-default"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/ns3.39-print-introspected-doxygen-default.pdb"
   "CMakeFiles/print-introspected-doxygen.dir/print-introspected-doxygen.cc.o"
   "CMakeFiles/print-introspected-doxygen.dir/print-introspected-doxygen.cc.o.d"
 )

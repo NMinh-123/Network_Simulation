@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-internet-apps-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-internet-apps-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-internet-apps-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-internet-apps-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-internet-apps-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,35 +56,29 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/helper/dhcp-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/helper/ping-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/helper/ping6-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/helper/radvd-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/helper/v4ping-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/helper/v4traceroute-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/dhcp-client.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/dhcp-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/dhcp-server.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/ping.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/ping6.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/radvd-interface.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/radvd-prefix.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/radvd.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/v4ping.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/internet-apps/model/v4traceroute.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/internet-apps-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/helper/dhcp-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/helper/ping-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/helper/ping6-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/helper/radvd-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/helper/v4ping-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/helper/v4traceroute-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/dhcp-client.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/dhcp-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/dhcp-server.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/ping.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/ping6.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/radvd-interface.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/radvd-prefix.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/radvd.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/v4ping.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/internet-apps/model/v4traceroute.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/internet-apps-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/internet-apps/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/internet-apps/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/internet-apps/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/perf/ns3.39-perf-io-default"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/perf/ns3.39-perf-io-default.pdb"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/perf/ns3.39-perf-io-default"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/perf/ns3.39-perf-io-default.pdb"
   "CMakeFiles/perf-io.dir/perf/perf-io.cc.o"
   "CMakeFiles/perf-io.dir/perf/perf-io.cc.o.d"
 )

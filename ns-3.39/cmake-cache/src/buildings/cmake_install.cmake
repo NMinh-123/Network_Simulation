@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/buildings
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-buildings-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-buildings-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-buildings-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-buildings-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-buildings-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,33 +56,27 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/helper/building-allocator.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/helper/building-container.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/helper/building-position-allocator.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/helper/buildings-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/building-list.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/building.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/buildings-channel-condition-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/buildings-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/hybrid-buildings-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/itu-r-1238-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/mobility-building-info.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/oh-buildings-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/random-walk-2d-outdoor-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/buildings/model/three-gpp-v2v-channel-condition-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buildings-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/helper/building-allocator.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/helper/building-container.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/helper/building-position-allocator.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/helper/buildings-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/building-list.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/building.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/buildings-channel-condition-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/buildings-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/hybrid-buildings-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/itu-r-1238-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/mobility-building-info.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/oh-buildings-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/random-walk-2d-outdoor-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/buildings/model/three-gpp-v2v-channel-condition-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buildings-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/buildings/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/buildings/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/buildings/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

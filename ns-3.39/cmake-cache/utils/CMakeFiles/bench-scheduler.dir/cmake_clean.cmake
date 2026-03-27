@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/ns3.39-bench-scheduler-default"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/ns3.39-bench-scheduler-default.pdb"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/ns3.39-bench-scheduler-default"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/ns3.39-bench-scheduler-default.pdb"
   "CMakeFiles/bench-scheduler.dir/bench-scheduler.cc.o"
   "CMakeFiles/bench-scheduler.dir/bench-scheduler.cc.o.d"
 )

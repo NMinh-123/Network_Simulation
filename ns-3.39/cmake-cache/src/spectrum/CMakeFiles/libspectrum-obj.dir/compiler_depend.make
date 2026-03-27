@@ -817,161 +817,161 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/adhoc-aloha-noack-ideal-phy-h
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/aloha-noack-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/data-rate.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/half-duplex-ideal-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/aloha-noack-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/data-rate.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/half-duplex-ideal-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/data-rate.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/data-rate.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-analyzer-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -1789,161 +1789,161 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-analyzer-helper.cc.o
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/non-communicating-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/output-stream-wrapper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pcap-file-wrapper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-analyzer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/non-communicating-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/output-stream-wrapper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pcap-file-wrapper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-analyzer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/trace-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/output-stream-wrapper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/pcap-file-wrapper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/pcap-file.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-analyzer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/trace-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/output-stream-wrapper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/pcap-file-wrapper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/pcap-file.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-analyzer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -2761,148 +2761,148 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-helper.cc.o: CMakeFi
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/data-rate.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/half-duplex-ideal-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/multi-model-spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/single-model-spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-converter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/data-rate.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/half-duplex-ideal-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/multi-model-spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/single-model-spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-converter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/data-rate.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/single-model-spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-converter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/data-rate.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/single-model-spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-converter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/tv-spectrum-transmitter-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -3720,145 +3720,145 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/tv-spectrum-transmitter-helpe
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/geographic-positions.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/isotropic-antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/non-communicating-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/output-stream-wrapper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/position-allocator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tv-spectrum-transmitter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/geographic-positions.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/isotropic-antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/non-communicating-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/output-stream-wrapper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/position-allocator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tv-spectrum-transmitter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/isotropic-antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/helper/mobility-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/geographic-positions.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/position-allocator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/output-stream-wrapper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/isotropic-antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/helper/mobility-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/geographic-positions.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/position-allocator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/output-stream-wrapper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/waveform-generator-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -4676,156 +4676,156 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/waveform-generator-helper.cc.
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/non-communicating-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/waveform-generator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/non-communicating-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/waveform-generator.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/names.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/net-device-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/node-container.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/waveform-generator-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/waveform-generator-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/waveform-generator.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/names.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/net-device-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/node-container.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/waveform-generator-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/waveform-generator-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/waveform-generator.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-mac-header.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -5641,59 +5641,59 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-mac-header.cc.o: C
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address-utils.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address-utils.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/address-utils.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac16-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac64-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-mac-header.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-mac-header.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/address-utils.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac16-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac64-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-mac-header.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-mac-header.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-net-device.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -6509,122 +6509,122 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-net-device.cc.o: C
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address-utils.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/llc-snap-header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address-utils.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/llc-snap-header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/uinteger.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/address-utils.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/llc-snap-header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac16-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac64-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-fwd.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-item.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-size.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-mac-header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-net-device.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-net-device.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/address-utils.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/llc-snap-header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac16-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac64-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-fwd.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-item.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-size.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-mac-header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-net-device.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-net-device.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/constant-spectrum-propagation-loss.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -7440,65 +7440,65 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/constant-spectrum-propagation-
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/constant-spectrum-propagation-loss.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/constant-spectrum-propagation-loss.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/friis-spectrum-propagation-loss.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -8314,62 +8314,62 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/friis-spectrum-propagation-los
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/friis-spectrum-propagation-loss.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/friis-spectrum-propagation-loss.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy-signal-parameters.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -9185,76 +9185,76 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy-signal-p
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -10072,136 +10072,136 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy.cc.o: CM
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/data-rate.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/data-rate.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/data-rate.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/generic-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-error-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/data-rate.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/generic-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-error-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/ism-spectrum-value-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -11017,29 +11017,29 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/ism-spectrum-value-helper.cc.o
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/matrix-based-channel-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -11857,59 +11857,59 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/matrix-based-channel-model.cc.
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/matrix-based-channel-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/matrix-based-channel-model.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/matrix-based-channel-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/matrix-based-channel-model.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/microwave-oven-spectrum-value-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -12725,28 +12725,28 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/microwave-oven-spectrum-value-
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/multi-model-spectrum-channel.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -13564,131 +13564,131 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/multi-model-spectrum-channel.c
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-converter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-converter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-converter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-converter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/non-communicating-net-device.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -14504,97 +14504,97 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/non-communicating-net-device.c
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/uinteger.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/phased-array-spectrum-propagation-loss-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -15412,71 +15412,71 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/phased-array-spectrum-propagat
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/single-model-spectrum-channel.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -16294,129 +16294,129 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/single-model-spectrum-channel.
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/single-model-spectrum-channel.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/single-model-spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/single-model-spectrum-channel.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/single-model-spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-analyzer.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -17234,127 +17234,127 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-analyzer.cc.o: CMakeF
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-analyzer.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-analyzer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-analyzer.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-analyzer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-channel.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -18172,91 +18172,91 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-channel.cc.o: CMakeFi
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-converter.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -19072,30 +19072,30 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-converter.cc.o: CMake
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-converter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-converter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-converter.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-converter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-converter.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-converter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-error-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -19911,81 +19911,81 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-error-model.cc.o: CMa
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-error-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-error-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-error-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-error-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-interference.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -20801,86 +20801,86 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-interference.cc.o: CM
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-error-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-error-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-300kHz-300GHz-log.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -21696,28 +21696,28 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-300kHz-300GHz-l
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model-300kHz-300GHz-log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model-300kHz-300GHz-log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-ism2400MHz-res1MHz.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -22533,28 +22533,28 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-ism2400MHz-res1
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model-ism2400MHz-res1MHz.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model-ism2400MHz-res1MHz.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -23370,23 +23370,23 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model.cc.o: CMakeFile
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-phy.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -24204,117 +24204,117 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-phy.cc.o: CMakeFiles/
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-propagation-loss-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -25130,60 +25130,60 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-propagation-loss-mode
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-signal-parameters.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -25999,62 +25999,62 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-signal-parameters.cc.
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-transmit-filter.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -26870,51 +26870,51 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-transmit-filter.cc.o:
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-value.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -27730,29 +27730,29 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-value.cc.o: CMakeFile
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/math.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/math.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/math.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/math.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-channel-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -28621,116 +28621,116 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-channel-model.cc.o: 
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel-condition-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-based-channel-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel-condition-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-based-channel-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/channel-condition-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/matrix-based-channel-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-channel-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-channel-model.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/channel-condition-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/matrix-based-channel-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-channel-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-channel-model.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-spectrum-propagation-loss-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -29549,122 +29549,122 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-spectrum-propagation
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel-condition-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-based-channel-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel-condition-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-based-channel-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/channel-condition-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/matrix-based-channel-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-channel-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/channel-condition-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/matrix-based-channel-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-channel-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/trace-fading-loss-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -30480,75 +30480,75 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/trace-fading-loss-model.cc.o: 
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-fading-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-fading-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/trace-fading-loss-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/trace-fading-loss-model.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/trace-fading-loss-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/trace-fading-loss-model.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/tv-spectrum-transmitter.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -31366,136 +31366,136 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/tv-spectrum-transmitter.cc.o: 
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/isotropic-antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/isotropic-antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/isotropic-antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/isotropic-antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/two-ray-spectrum-propagation-loss-model.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -32313,116 +32313,116 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/two-ray-spectrum-propagation-l
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel-condition-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel-condition-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/string.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/channel-condition-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/string.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/channel-condition-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/waveform-generator.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -33240,130 +33240,130 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/waveform-generator.cc.o: CMake
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/packet-burst.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/waveform-generator.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/waveform-generator.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/packet-burst.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/waveform-generator.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/waveform-generator.h
 
 src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.o: CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json \
@@ -34179,51 +34179,61 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdarg.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h \
   CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.h
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.h
 
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/fatal-error.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/waveform-generator.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/fatal-error.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/trace-fading-loss-model.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/trace-fading-loss-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-channel-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel-condition-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-channel-model.cc:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/channel-condition-model.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/string.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/integer.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel-condition-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/random:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/trace-fading-loss-model.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/numeric:
 
@@ -34233,23 +34243,29 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/shuffle_order_engine.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/seed_seq.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/ranlux.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/random_device.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/poisson_distribution.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/normal_distribution.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/mersenne_twister_engine.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/lognormal_distribution.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/generate_canonical.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/fisher_f_distribution.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/exponential_distribution.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/default_random_engine.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discard_block_engine.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/clamp_to_integral.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/string.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/bernoulli_distribution.h:
 
@@ -34261,6 +34277,8 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/pstl.h:
 
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/iota.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/inner_product.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/gcd_lcm.h:
@@ -34269,305 +34287,321 @@ src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/lognormal_distribution.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/math.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/math.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/math.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model-ism2400MHz-res1MHz.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model-300kHz-300GHz-log.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-error-model.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-converter.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-converter.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-analyzer.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/matrix-based-channel-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/single-model-spectrum-channel.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-error-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/packet-burst.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-error-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/friis-spectrum-propagation-loss.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/packet-burst.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet-burst.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/constant-spectrum-propagation-loss.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/friis-spectrum-propagation-loss.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/llc-snap-header.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/friis-spectrum-propagation-loss.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/pointer.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/constant-spectrum-propagation-loss.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pointer.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-net-device.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/llc-snap-header.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pointer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/boolean.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/llc-snap-header.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-mac-header.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/boolean.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/address-utils.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-mac-header.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/header.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac64-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/waveform-generator.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac16-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/waveform-generator-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/address-utils.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/waveform-generator-helper.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/header.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/waveform-generator.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/waveform-generator-helper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-source-accessor.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/waveform-generator-helper.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-source-accessor.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tv-spectrum-transmitter.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/single-model-spectrum-channel.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/geographic-positions.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-converter.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/position-allocator.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/single-model-spectrum-channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/isotropic-antenna-model.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/default_random_engine.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/uinteger.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tv-spectrum-transmitter.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-converter.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-converter.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/multi-model-spectrum-channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/single-model-spectrum-channel.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-analyzer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/non-communicating-net-device.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/pcap-file-wrapper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/non-communicating-net-device.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/pcap-file.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/output-stream-wrapper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-helper.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/ranlux.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/output-stream-wrapper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/position-allocator.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/non-communicating-net-device.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-channel.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac8-address.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv6-address.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-size.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/generic-phy.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-fwd.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/data-rate.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac8-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv6-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-mac-header.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/ipv4-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/generic-phy.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-tag-list.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/data-rate.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/net-device.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/trailer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/header.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/exponential_distribution.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/iota.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-tag-list.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/node-container.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/nix-vector.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/channel.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/val-array.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/byte-tag-list.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/uinteger.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/buffer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-value.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/traced-callback.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/net-device-container.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/trace-source-accessor.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simulator.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/val-array.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/simple-ref-count.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-name.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/ptr.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-value.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/traced-callback.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-factory.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/time-printer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/nstime.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simple-ref-count.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/node-printer.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/random-variable-stream.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/names.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/ptr.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/make-event.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/nstime.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/node-printer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-enabled.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/names.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64-128.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/matrix-array.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-murmur3.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/execution:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-enabled.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-function.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/integer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-impl.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-interference.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/enum.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/deprecated.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/isotropic-antenna-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/default-deleter.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-function.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/boolean.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-impl.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/double.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/deprecated.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/default-deleter.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/seed_seq.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/queue-item.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/config.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/boolean.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-helper.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-construction-list.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/attribute-accessor-helper.h:
+
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discard_block_engine.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/abort.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/pcap-file-wrapper.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h:
 
 CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/type-id.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/vector.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/object-base.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/type-id.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-value.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-value.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traced-callback.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traced-callback.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/string.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/tag-buffer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/tag-buffer.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-value.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-value.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/callback.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-transmit-filter.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-phy.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-phy.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-interference.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/uinteger.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simulator.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-interference.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-size.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-item.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simple-ref-count.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/queue-fwd.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/random-variable-stream.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ptr.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-fwd.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-loss-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ptr.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/random_device.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/phased-array-model.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/poisson_distribution.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/event-id.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-delay-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/packet.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-factory.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-factory.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node-container.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/nstime.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.cc:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node-container.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device-container.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/execution:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-value.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/names.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv6-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-channel-model.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/ipv4-address.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/half-duplex-ideal-phy.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv6-address.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/generic-phy.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/generic-phy.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/core-config.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/event-id.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/config.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/tv-spectrum-transmitter-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/waveform-generator.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/data-rate.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/buffer.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/core-config.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/channel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/angles.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-item.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/callback.h:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/negative_binomial_distribution.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/buffer.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/callback.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/aloha-noack-net-device.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/stdint.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/ptrcheck.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/geographic-positions.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/limits.h:
 
@@ -34579,9 +34613,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_null.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model-300kHz-300GHz-log.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-id.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_max_align_t.h:
 
@@ -34609,17 +34641,17 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/time.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/three-gpp-channel-model.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_types.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/wait.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/llc-snap-header.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/types.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/syslimits.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address-utils.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-net-device.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stdio.h:
 
@@ -34630,8 +34662,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uintptr_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_uid_t.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_short.h:
 
@@ -34647,9 +34677,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_int.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-model-ism2400MHz-res1MHz.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_u_char.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_size_t.h:
 
@@ -34658,8 +34688,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_sigaltstack.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/cauchy_distribution.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/abort.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/logarithms.h:
 
@@ -34671,13 +34699,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_off_t.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/position-allocator.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_nlink_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sift_down.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int32_t.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
 
@@ -34686,6 +34714,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_in_port_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_ctype.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/vector.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
 
@@ -34700,6 +34730,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_clock_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_caddr_t.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-delay-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_blkcnt_t.h:
 
@@ -34719,13 +34751,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/random-variable-stream.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ucontext.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-helper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h:
 
@@ -34747,17 +34779,15 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/pthread.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/log.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/types.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/__endian.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/math.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/limits.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-item.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iterator_operations.h:
 
@@ -34775,13 +34805,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ctype.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/aloha-noack-net-device.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/version:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/tuple:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/trace-fading-loss-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__wctype.h:
 
@@ -34790,6 +34816,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string_view:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_real_distribution.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/warnings.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string.h:
 
@@ -34805,11 +34833,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stack:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/trailer.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/merge.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/print:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/object-base.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/copyable.h:
 
@@ -34820,8 +34848,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/system_error.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/map:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/noexcept_move_assign_container.h:
 
@@ -34839,8 +34865,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-spectrum-propagation-loss-model.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/max_align_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_wchar_t.h:
@@ -34855,13 +34879,19 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/fstream:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/streambuf.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/format:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.cc:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/make-event.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/exception:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac16-address.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/trace-helper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/errno.h:
 
@@ -34885,8 +34915,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/clocale:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/packet-burst.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bitset:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdexcept:
@@ -34901,8 +34929,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/array:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-name.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector_bool.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/vector.h:
@@ -34915,15 +34941,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/comparison.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-net-device.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/buffer.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/unreachable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_signed.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/rel_ops.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/is_pointer_in_range.h:
 
@@ -34939,21 +34963,17 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/no_destroy.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/log-macros-disabled.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/___wctype.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/move.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-phy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/appleapiopts.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/climits:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/in_place.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/double.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/net-device-container.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/move_backward.h:
 
@@ -34965,15 +34985,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/memory:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/net-device.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/declval.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/errno.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/swap.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/isotropic-antenna-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/runetype.h:
 
@@ -34983,7 +35001,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/auto_cast.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/net-device.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/waveform-generator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_pointer.h:
 
@@ -34998,6 +35016,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/void_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/underlying_type.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/utility:
 
@@ -35017,8 +35037,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_timespec.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.cc:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/ignore.h:
@@ -35033,19 +35051,17 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc_type.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-helper.cc:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_unsigned.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/make_signed.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/is_seed_sequence.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-analyzer.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-channel.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/abort.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/lazy.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/vector.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_void.h:
 
@@ -35063,13 +35079,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_unbounded_array.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-signal-parameters.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_lexicographically_comparable.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/simulator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_copyable.h:
 
@@ -35079,21 +35091,19 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivial.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/address.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/char_traits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_swappable.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac64-address.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/integer.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/geographic-positions.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_uint32_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_int8_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/system_error:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/matrix-based-channel-model.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_standard_layout.h:
 
@@ -35109,9 +35119,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_same.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/event-id.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_referenceable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/extreme_value_distribution.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/phased-array-spectrum-propagation-loss-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_reference_wrapper.h:
 
@@ -35141,11 +35155,15 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/complex.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/time-printer.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/nstime.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_fundamental.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.cc:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/pointer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/wchar.h:
 
@@ -35155,13 +35173,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_floating_point.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/matrix-based-channel-model.cc:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_enum.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/locale.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
 
@@ -35171,17 +35185,17 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_gid_t.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/tag-buffer.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_compound.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_callable.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-300kHz-300GHz-log.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_seek_set.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_assignable.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/assert.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/ism-spectrum-value-helper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward_like.h:
 
@@ -35221,15 +35235,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/container_traits.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/geographic-positions.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/conjunction.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/isotropic-antenna-model.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-loss-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_iterator.h:
 
@@ -35275,6 +35287,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/compare:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/three-gpp-spectrum-propagation-loss-model.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_condition.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/error_category.h:
@@ -35285,15 +35299,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__string/constexpr_c_functions.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/config.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__std_mbstate_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/enum.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_volatile.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/multi-model-spectrum-channel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min.h:
 
@@ -35305,19 +35317,29 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/movable_box.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mac48-address.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/destructible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/enable_view.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-helper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/enable_borrowed_range.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/empty.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/data.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/trace-fading-loss-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stddef_wchar_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/concepts.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-factory.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_equality_comparable.h:
 
@@ -35357,11 +35379,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/launder.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-id.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/global_typed_new_delete.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/helper/spectrum-analyzer-helper.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/placement_new_delete.h:
 
@@ -35397,19 +35415,19 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stdint.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/aloha-noack-mac-header.cc:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/poll_with_backoff.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_string.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/type-traits.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/decay.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/knuth_b.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/inout_ptr.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/aloha-noack-net-device.cc:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/different_from.h:
 
@@ -35423,7 +35441,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/swap_allocator.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/node.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.cc:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/header.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
 
@@ -35435,27 +35455,27 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/min_max.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.cc:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/inverse_trigonometric_functions.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/assert.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hyperbolic_functions.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_rsize_t.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/tv-spectrum-transmitter.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/queue-size.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/enum.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_wint_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/copysign.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/perfect_forward.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-accessor-helper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/count_if.h:
 
@@ -35469,8 +35489,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_time.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/vector.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__assert:
@@ -35483,6 +35501,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/rounding_functions.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max_element.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
@@ -35491,17 +35511,23 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_string.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-fnv.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_abort.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/multi-model-spectrum-channel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/log-macros-disabled.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/next.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/mac48-address.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cstring:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/node.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/names.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ssize_t.h:
 
@@ -35510,8 +35536,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_move.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/chi_squared_distribution.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/packet-metadata.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
@@ -35531,9 +35555,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fn.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/access.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/piecewise_linear_distribution.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/simple-ref-count.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_endian.h:
 
@@ -35544,8 +35572,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__hash_table:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__undef_macros:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/support.h:
 
@@ -35560,8 +35586,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/clamp.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/half_positive.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-interference.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/istream.h:
 
@@ -35597,6 +35621,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/algorithm:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/enum.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_unsigned.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/fstream.h:
@@ -35625,15 +35651,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/angles.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/SDKSettings.json:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit_reference:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/not_fn.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/node.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
 
@@ -35644,6 +35666,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/invoke.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/random-variable-stream.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdint.h:
 
@@ -35658,6 +35682,10 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/geometric_distribution.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/matrix-based-channel-model.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64-128.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_options.h:
 
@@ -35693,8 +35721,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory_resource/memory_resource.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-channel.cc:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/three_way_comparable.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/filesystem_error.h:
@@ -35717,8 +35743,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/nested_exception.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy-signal-parameters.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__debug_utils/sanitizers.h:
@@ -35727,7 +35751,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_nothrow_constructible.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-traits.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/mac48-address.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/contention_t.h:
 
@@ -35747,8 +35771,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__system_error/errc.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-fwd.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/set_intersection.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/availability.h:
@@ -35757,23 +35779,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/result_of.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/integer.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/half-duplex-ideal-phy.cc:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/abi.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/invoke.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/fatal-error.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/forward.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_segment.h:
 
@@ -35781,11 +35793,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/accumulate.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/byte.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__condition_variable/condition_variable.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-propagation-loss-model.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
 
@@ -35797,13 +35809,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/maybe_const.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/helper/mobility-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address-utils.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/spectrum-helper.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/same_as.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_if.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mac48-address.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/reference_wrapper.h:
 
@@ -35813,13 +35825,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/bit_reference.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/queue-size.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/machine/_types.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.cc:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/output-stream-wrapper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h:
 
@@ -35837,13 +35843,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_types.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-model-ism2400MHz-res1MHz.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/prev_permutation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_cast.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-error-model.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityInternalLegacy.h:
 
@@ -35853,13 +35859,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/nullptr_t.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/waveform-generator.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/attribute-helper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/uses_allocator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/double.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/address.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/Availability.h:
 
@@ -35870,10 +35876,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_base_of.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/assignable.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/trace-fading-loss-model.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-transmit-filter.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/compare_three_way_result.h:
 
@@ -35895,7 +35897,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/convert_to_timespec.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/trace-source-accessor.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_pod.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-analyzer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h:
 
@@ -35903,9 +35909,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/countr.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.cc:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/simulator.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/to_gcc_order.h:
 
@@ -35915,8 +35923,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__configuration/compiler.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-analyzer.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/semiregular.h:
@@ -35925,21 +35931,21 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/packet-metadata.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/ranges_operations.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/check_memory_order.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/hash-fnv.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/assert.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/popcount.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_zero.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_sync.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/address.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/gamma.h:
 
@@ -35965,9 +35971,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/phased-array-model.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/uinteger.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/empty.h:
 
@@ -35979,9 +35985,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/simd_utils.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/log.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/string_view.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/wifi-spectrum-value-helper.cc:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-signal-parameters.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/nth_element.h:
 
@@ -35995,13 +36003,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_function.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/assert.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__thread/support/pthread.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/nix-vector.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/abort.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/set_union.h:
 
@@ -36010,6 +36012,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__vector/pmr.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/utils/pcap-file-wrapper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_attr_t.h:
 
@@ -36023,21 +36027,19 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/recursive_directory_iterator.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/helper/adhoc-aloha-noack-ideal-phy-helper.cc:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/exchange.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/search_n.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/int64x64.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/addressof.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/ipv4-address.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/net-device-container.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/auto_ptr.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/u8path.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/non-communicating-net-device.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_abstract.h:
 
@@ -36047,7 +36049,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/operations.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-array.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-model.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__verbose_abort:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-transmit-filter.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove.h:
 
@@ -36065,7 +36073,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_copy_if.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/microwave-oven-spectrum-value-helper.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-value.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/wctype.h:
 
@@ -36073,13 +36081,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/replace_copy.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-impl.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/cdefs.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/fence.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/xlocale/_wchar.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/single-model-spectrum-channel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_cv.h:
 
@@ -36087,13 +36095,15 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/ratio:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-analyzer.cc:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/remove_if.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy_n.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/fatal-error.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp_ref_type.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/regular.h:
 
@@ -36115,7 +36125,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/none_of.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/event-impl.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/int64x64.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
 
@@ -36131,15 +36141,21 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_partitioned.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/hash-murmur3.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_class.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sort.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/matrix-based-channel-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/support/c11.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/next_permutation.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/subtract_with_carry_engine.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/data-rate.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale.h:
 
@@ -36153,8 +36169,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/limits:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-array.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/move.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h:
@@ -36163,13 +36177,11 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min_element.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/output-stream-wrapper.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/in_out_result.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/spectrum-signal-parameters.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/make_heap.h:
 
@@ -36201,25 +36213,23 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/new:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/node.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/includes.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/chunk.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/warnings.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/helper/node-container.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_locale_t.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/config.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_mcontext.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/core/model/object-base.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/view_interface.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_heap.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdio.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/channel-condition-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/stable_sort.h:
 
@@ -36234,10 +36244,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/copy_n.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/attribute-construction-list.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/object-base.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
 
@@ -36257,13 +36263,13 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/hash.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/spectrum-model.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/traits.h:
 
 /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/__stdarg_header_macro.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/mem_fun_ref.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/single-model-spectrum-channel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
 
@@ -36274,10 +36280,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/find.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/helper/trace-helper.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/matrix-array.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill.h:
 
@@ -36290,6 +36292,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cstddef/byte.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/access.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/constant-spectrum-propagation-loss.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/_types.h:
 
@@ -36307,6 +36311,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/nat.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/helper/mobility-helper.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partition_copy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/derived_from.h:
@@ -36317,29 +36323,23 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/any_of.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/ipv4-address.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_mode_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/prev.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/attribute-helper.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_mb_cur_max.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/common_reference.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum/model/two-ray-spectrum-propagation-loss-model.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/reverse.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/tag-buffer.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/signal.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/types.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/chunk.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/alloca.h:
 
@@ -36348,6 +36348,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_intptr_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_object.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/channel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_size.h:
 
@@ -36364,8 +36366,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/matrix-based-channel-model.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/iter_swap.h:
 
@@ -36393,6 +36393,10 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/invocable.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-converter.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/network/model/address.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_locale_posix2008.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/error_functions.h:
@@ -36407,6 +36411,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_useconds_t.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/callback.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_xlocale.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_wctype_t.h:
@@ -36419,11 +36425,7 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/wrap_iter.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/position-allocator.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/pcap-file-wrapper.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_ptrcheck.h:
 
@@ -36432,8 +36434,6 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/discrete_distribution.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_bounds.h:
-
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/half-duplex-ideal-phy.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_ct_rune_t.h:
 
@@ -36445,6 +36445,8 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/partial_sort_copy.h:
 
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/double.h:
+
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_core_convertible.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/__xlocale.h:
@@ -36453,9 +36455,9 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__filesystem/directory_entry.h:
 
-/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_sentinel.h:
+/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/spectrum-propagation-loss-model.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/core/model/type-id.h:
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_sentinel.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/default_sentinel.h:
 
@@ -36463,17 +36465,15 @@ CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx.cxx:
 
 CMakeFiles/stdlib_pch-default.dir/cmake_pch.hxx:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/model/byte-tag-list.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__new/align_val_t.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/mach/arm/_structs.h:
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/network/utils/pcap-file.h:
-
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/___wctype.h:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/abs.h:
+
+/Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum/model/spectrum-phy.cc:
 
 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/steady_clock.h:
 

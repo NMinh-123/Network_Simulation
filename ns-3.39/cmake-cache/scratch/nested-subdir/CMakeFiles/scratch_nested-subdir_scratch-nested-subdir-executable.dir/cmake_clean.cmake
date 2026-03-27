@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/scratch/nested-subdir/ns3.39-scratch-nested-subdir-executable-default"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/scratch/nested-subdir/ns3.39-scratch-nested-subdir-executable-default.pdb"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/scratch/nested-subdir/ns3.39-scratch-nested-subdir-executable-default"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/scratch/nested-subdir/ns3.39-scratch-nested-subdir-executable-default.pdb"
   "CMakeFiles/scratch_nested-subdir_scratch-nested-subdir-executable.dir/scratch-nested-subdir-executable.cc.o"
   "CMakeFiles/scratch_nested-subdir_scratch-nested-subdir-executable.dir/scratch-nested-subdir-executable.cc.o.d"
 )

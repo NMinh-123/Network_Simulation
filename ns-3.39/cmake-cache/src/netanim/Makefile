@@ -57,10 +57,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -132,14 +132,14 @@ install/strip/fast: preinstall/fast
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/netanim//CMakeFiles/progress.marks
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles 0
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/netanim//CMakeFiles/progress.marks
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/clean
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/clean
 .PHONY : clean
 
 # The main clean target
@@ -148,23 +148,23 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/preinstall
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/preinstall
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -P /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles/VerifyGlobs.cmake
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -P /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles/VerifyGlobs.cmake
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 src/netanim/CMakeFiles/libnetanim-obj.dir/rule:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/CMakeFiles/libnetanim-obj.dir/rule
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/CMakeFiles/libnetanim-obj.dir/rule
 .PHONY : src/netanim/CMakeFiles/libnetanim-obj.dir/rule
 
 # Convenience name for target.
@@ -173,12 +173,12 @@ libnetanim-obj: src/netanim/CMakeFiles/libnetanim-obj.dir/rule
 
 # fast build rule for target.
 libnetanim-obj/fast:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/build
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/build
 .PHONY : libnetanim-obj/fast
 
 # Convenience name for target.
 src/netanim/CMakeFiles/libnetanim.dir/rule:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/CMakeFiles/libnetanim.dir/rule
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 src/netanim/CMakeFiles/libnetanim.dir/rule
 .PHONY : src/netanim/CMakeFiles/libnetanim.dir/rule
 
 # Convenience name for target.
@@ -187,7 +187,7 @@ libnetanim: src/netanim/CMakeFiles/libnetanim.dir/rule
 
 # fast build rule for target.
 libnetanim/fast:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim.dir/build.make src/netanim/CMakeFiles/libnetanim.dir/build
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim.dir/build.make src/netanim/CMakeFiles/libnetanim.dir/build
 .PHONY : libnetanim/fast
 
 model/animation-interface.o: model/animation-interface.cc.o
@@ -195,7 +195,7 @@ model/animation-interface.o: model/animation-interface.cc.o
 
 # target to build an object file
 model/animation-interface.cc.o:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/model/animation-interface.cc.o
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/model/animation-interface.cc.o
 .PHONY : model/animation-interface.cc.o
 
 model/animation-interface.i: model/animation-interface.cc.i
@@ -203,7 +203,7 @@ model/animation-interface.i: model/animation-interface.cc.i
 
 # target to preprocess a source file
 model/animation-interface.cc.i:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/model/animation-interface.cc.i
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/model/animation-interface.cc.i
 .PHONY : model/animation-interface.cc.i
 
 model/animation-interface.s: model/animation-interface.cc.s
@@ -211,7 +211,7 @@ model/animation-interface.s: model/animation-interface.cc.s
 
 # target to generate assembly for a file
 model/animation-interface.cc.s:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/model/animation-interface.cc.s
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(MAKE) $(MAKESILENT) -f src/netanim/CMakeFiles/libnetanim-obj.dir/build.make src/netanim/CMakeFiles/libnetanim-obj.dir/model/animation-interface.cc.s
 .PHONY : model/animation-interface.cc.s
 
 # Help Target
@@ -242,7 +242,7 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -P /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles/VerifyGlobs.cmake
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -P /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles/VerifyGlobs.cmake
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

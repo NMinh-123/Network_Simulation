@@ -6,13 +6,30 @@ import os
 
 # Hàm chuyển đổi định dạng thời gian của NS-3 (vd: "+1000000000.0ns") sang giây (float)
 def parse_ns3_time(time_str):
-    match = re.search(r'\+?([0-9\.]+)', time_str)
+    # Regex gắp cả phần số (hỗ trợ định dạng e+...) và phần đơn vị (ns, ms, s...)
+    match = re.search(r'([+-]?\d*\.?\d+(?:[eE][+-]?\d+)?)(ns|ms|us|fs|ps|s)?', time_str)
     if match:
-        return float(match.group(1)) / 1e9
+        value = float(match.group(1))
+        unit = match.group(2)
+        
+        # Chuyển đổi mọi thứ về chuẩn là Giây (Seconds)
+        if unit == 's':
+            return value
+        elif unit == 'ms':
+            return value * 1e-3
+        elif unit == 'us':
+            return value * 1e-6
+        elif unit == 'ns':
+            return value * 1e-9
+        elif unit == 'ps':
+            return value * 1e-12
+        else:
+            # Mặc định phòng hờ nếu chuỗi không có đuôi đơn vị
+            return value * 1e-9 
     return 0.0
 
 # Các mốc số lượng Node cần chạy mô phỏng
-nodes_list = [2, 4, 6, 8, 10, 15, 20, 25, 30]
+nodes_list = list(range(1, 31))
 
 # Danh sách lưu trữ kết quả để vẽ biểu đồ
 throughputs = []
@@ -21,7 +38,7 @@ delays = []
 
 sim_time = 20.0 # Thời gian mô phỏng (theo cấu hình C++)
 
-print("🚀 Bắt đầu chạy tự động mô phỏng Wi-Fi Ad-hoc (CSMA/CA Không có RTS/CTS)...")
+print("Bắt đầu chạy tự động mô phỏng Wi-Fi Ad-hoc (CSMA/CA Không có RTS/CTS)...")
 
 for n in nodes_list:
     print(f"[{n}/30 Nodes] Đang chạy mô phỏng...")
@@ -56,7 +73,7 @@ for n in nodes_list:
     
     print(f"   => Thông lượng: {throughput_kbps:.2f} Kbps | PDR: {pdr:.2f}% | Trễ: {avg_delay_ms:.2f} ms")
 
-print("✅ Đã chạy xong toàn bộ! Đang tiến hành vẽ đồ thị...")
+print("Đã chạy xong toàn bộ! Đang tiến hành vẽ đồ thị...")
 
 # --- PHẦN VẼ BIỂU ĐỒ (MATPLOTLIB) ---
 fig, (ax1, ax2, ax3) = plt.subplots(3, 1, figsize=(8, 12))
@@ -84,4 +101,4 @@ ax3.grid(True, linestyle='--', alpha=0.7)
 
 plt.tight_layout(rect=[0, 0.03, 1, 0.95])
 plt.savefig('wifi_performance.png', dpi=300)
-print("📸 Đã lưu biểu đồ thành công vào file 'wifi_performance.png'")
+print("Đã lưu biểu đồ thành công vào file 'wifi_performance.png'")

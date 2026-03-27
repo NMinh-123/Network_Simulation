@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-traffic-control-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-traffic-control-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-traffic-control-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-traffic-control-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-traffic-control-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,36 +56,30 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/helper/queue-disc-container.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/helper/traffic-control-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/cobalt-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/codel-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/fifo-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/fq-cobalt-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/fq-codel-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/fq-pie-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/mq-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/packet-filter.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/pfifo-fast-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/pie-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/prio-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/red-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/tbf-queue-disc.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/traffic-control/model/traffic-control-layer.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/traffic-control-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/helper/queue-disc-container.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/helper/traffic-control-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/cobalt-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/codel-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/fifo-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/fq-cobalt-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/fq-codel-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/fq-pie-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/mq-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/packet-filter.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/pfifo-fast-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/pie-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/prio-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/red-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/tbf-queue-disc.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/traffic-control/model/traffic-control-layer.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/traffic-control-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/traffic-control/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/traffic-control/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/traffic-control/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

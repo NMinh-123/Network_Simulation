@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/mobility
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mobility-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mobility-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-mobility-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-mobility-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-mobility-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,39 +56,33 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/helper/group-mobility-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/helper/mobility-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/helper/ns2-mobility-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/box.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/constant-acceleration-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/constant-position-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/constant-velocity-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/constant-velocity-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/gauss-markov-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/geographic-positions.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/hierarchical-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/position-allocator.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/random-direction-2d-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/random-walk-2d-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/random-waypoint-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/rectangle.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/steady-state-random-waypoint-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/waypoint-mobility-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mobility/model/waypoint.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mobility-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/helper/group-mobility-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/helper/mobility-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/helper/ns2-mobility-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/box.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/constant-acceleration-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/constant-position-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/constant-velocity-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/constant-velocity-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/gauss-markov-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/geographic-positions.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/hierarchical-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/position-allocator.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/random-direction-2d-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/random-walk-2d-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/random-waypoint-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/rectangle.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/steady-state-random-waypoint-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/waypoint-mobility-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mobility/model/waypoint.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mobility-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mobility/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mobility/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mobility/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

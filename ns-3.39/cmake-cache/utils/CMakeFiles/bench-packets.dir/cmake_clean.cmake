@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/ns3.39-bench-packets-default"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/utils/ns3.39-bench-packets-default.pdb"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/ns3.39-bench-packets-default"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/utils/ns3.39-bench-packets-default.pdb"
   "CMakeFiles/bench-packets.dir/bench-packets.cc.o"
   "CMakeFiles/bench-packets.dir/bench-packets.cc.o.d"
 )

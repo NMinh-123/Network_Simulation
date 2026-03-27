@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 # Include any dependencies generated for this target.
 include src/energy/CMakeFiles/libenergy.dir/depend.make
@@ -77,56 +77,56 @@ libenergy_OBJECTS =
 
 # External object files for target libenergy
 libenergy_EXTERNAL_OBJECTS = \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-harvester-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-source-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-container.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-model-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-source-container.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/li-ion-energy-source-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/rv-battery-model-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-harvester.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-source.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model-container.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/energy-harvester.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/energy-source.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/li-ion-energy-source.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o"
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-harvester-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-source-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-container.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-model-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-source-container.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/li-ion-energy-source-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/helper/rv-battery-model-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-harvester.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-source.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model-container.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/energy-harvester.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/energy-source.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/li-ion-energy-source.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o"
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-harvester-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-source-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-container.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-model-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-source-container.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/li-ion-energy-source-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/rv-battery-model-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-harvester.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-source.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model-container.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-harvester.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-source.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/li-ion-energy-source.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy.dir/build.make
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib"
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libenergy.dir/link.txt --verbose=$(VERBOSE)
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-harvester-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-source-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-container.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-model-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-source-container.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/li-ion-energy-source-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/rv-battery-model-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-harvester.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-source.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model-container.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-harvester.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-source.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/li-ion-energy-source.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy.dir/build.make
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib: src/energy/CMakeFiles/libenergy.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib"
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libenergy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/energy/CMakeFiles/libenergy.dir/build: /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-energy-default.dylib
+src/energy/CMakeFiles/libenergy.dir/build: /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-energy-default.dylib
 .PHONY : src/energy/CMakeFiles/libenergy.dir/build
 
 src/energy/CMakeFiles/libenergy.dir/clean:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy && $(CMAKE_COMMAND) -P CMakeFiles/libenergy.dir/cmake_clean.cmake
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy && $(CMAKE_COMMAND) -P CMakeFiles/libenergy.dir/cmake_clean.cmake
 .PHONY : src/energy/CMakeFiles/libenergy.dir/clean
 
 src/energy/CMakeFiles/libenergy.dir/depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/energy /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy.dir/DependInfo.cmake "--color=$(COLOR)" libenergy
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39/src/energy /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/energy/CMakeFiles/libenergy.dir/DependInfo.cmake "--color=$(COLOR)" libenergy
 .PHONY : src/energy/CMakeFiles/libenergy.dir/depend
 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libscratch-nested-subdir-lib.a"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libscratch-nested-subdir-lib.pdb"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libscratch-nested-subdir-lib.a"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libscratch-nested-subdir-lib.pdb"
   "CMakeFiles/scratch-nested-subdir-lib.dir/lib/scratch-nested-subdir-library-source.cc.o"
   "CMakeFiles/scratch-nested-subdir-lib.dir/lib/scratch-nested-subdir-library-source.cc.o.d"
 )

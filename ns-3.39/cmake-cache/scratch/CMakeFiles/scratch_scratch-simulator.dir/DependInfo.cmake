@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/scratch/scratch-simulator.cc" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o" "gcc" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o.d"
-  "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles/stdlib_pch_exec.dir/cmake_pch.hxx" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o" "gcc" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o.d"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/scratch/scratch-simulator.cc" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o" "gcc" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o.d"
+  "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles/stdlib_pch_exec.dir/cmake_pch.hxx" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o" "gcc" "scratch/CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

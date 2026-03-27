@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/propagation
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-propagation-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-propagation-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-propagation-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-propagation-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-propagation-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,34 +56,28 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/channel-condition-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/cost231-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/itu-r-1411-los-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/itu-r-1411-nlos-over-rooftop-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/jakes-process.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/jakes-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/kun-2600-mhz-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/okumura-hata-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/probabilistic-v2v-channel-condition-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-cache.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-delay-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-environment.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/three-gpp-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/propagation/model/three-gpp-v2v-propagation-loss-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/propagation-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/channel-condition-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/cost231-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/itu-r-1411-los-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/itu-r-1411-nlos-over-rooftop-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/jakes-process.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/jakes-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/kun-2600-mhz-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/okumura-hata-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/probabilistic-v2v-channel-condition-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-cache.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-delay-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-environment.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/three-gpp-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/propagation/model/three-gpp-v2v-propagation-loss-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/propagation-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/propagation/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/propagation/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/propagation/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/mesh
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-mesh-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-mesh-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-mesh-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,49 +56,43 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/helper/dot11s/dot11s-installer.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/helper/flame/flame-installer.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/helper/mesh-helper.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/helper/mesh-stack-installer.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/dot11s-mac-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/hwmp-protocol.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/hwmp-rtable.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-beacon-timing.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-configuration.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-id.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-metric-report.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-peer-management.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-peering-protocol.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-perr.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-prep.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-preq.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/ie-dot11s-rann.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/peer-link-frame.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/peer-link.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/dot11s/peer-management-protocol.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/flame/flame-header.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/flame/flame-protocol-mac.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/flame/flame-protocol.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/flame/flame-rtable.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/mesh-information-element-vector.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/mesh-l2-routing-protocol.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/mesh-point-device.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/mesh-wifi-beacon.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/mesh-wifi-interface-mac-plugin.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh/model/mesh-wifi-interface-mac.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/mesh-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/helper/dot11s/dot11s-installer.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/helper/flame/flame-installer.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/helper/mesh-helper.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/helper/mesh-stack-installer.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/dot11s-mac-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/hwmp-protocol.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/hwmp-rtable.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-beacon-timing.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-configuration.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-id.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-metric-report.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-peer-management.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-peering-protocol.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-perr.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-prep.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-preq.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/ie-dot11s-rann.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/peer-link-frame.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/peer-link.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/dot11s/peer-management-protocol.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/flame/flame-header.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/flame/flame-protocol-mac.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/flame/flame-protocol.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/flame/flame-rtable.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/mesh-information-element-vector.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/mesh-l2-routing-protocol.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/mesh-point-device.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/mesh-wifi-beacon.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/mesh-wifi-interface-mac-plugin.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/mesh/model/mesh-wifi-interface-mac.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/mesh-module.h"
     )
-endif()
-
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for each subdirectory.
-  include("/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/examples/cmake_install.cmake")
-
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

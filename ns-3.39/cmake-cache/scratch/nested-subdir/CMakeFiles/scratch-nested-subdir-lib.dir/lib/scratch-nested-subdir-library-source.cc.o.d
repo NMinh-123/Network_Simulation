@@ -1,6 +1,6 @@
 scratch/nested-subdir/CMakeFiles/scratch-nested-subdir-lib.dir/lib/scratch-nested-subdir-library-source.cc.o: \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/scratch/nested-subdir/lib/scratch-nested-subdir-library-source.cc \
-  /Users/hoangminh/ns-allinone-3.39/ns-3.39/scratch/nested-subdir/lib/scratch-nested-subdir-library-header.h \
+  /Users/hoangminh/Network_Simulation/ns-3.39/scratch/nested-subdir/lib/scratch-nested-subdir-library-source.cc \
+  /Users/hoangminh/Network_Simulation/ns-3.39/scratch/nested-subdir/lib/scratch-nested-subdir-library-header.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \

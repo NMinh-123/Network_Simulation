@@ -1,4 +1,4 @@
-# Install script for directory: /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna
+# Install script for directory: /Users/hoangminh/Network_Simulation/ns-3.39/src/antenna
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,11 +38,11 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-antenna-default.dylib")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE SHARED_LIBRARY FILES "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-antenna-default.dylib")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-antenna-default.dylib" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-antenna-default.dylib")
     execute_process(COMMAND /usr/bin/install_name_tool
-      -delete_rpath "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib"
+      -delete_rpath "/Users/hoangminh/Network_Simulation/ns-3.39/build/lib"
       -add_rpath "/usr/local/lib:$ORIGIN/:$ORIGIN/../lib"
       "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libns3.39-antenna-default.dylib")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -56,21 +56,21 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/ns3" TYPE FILE FILES
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/angles.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/antenna-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/cosine-antenna-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/isotropic-antenna-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/parabolic-antenna-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/phased-array-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/three-gpp-antenna-model.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/src/antenna/model/uniform-planar-array.h"
-    "/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/include/ns3/antenna-module.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/angles.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/antenna-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/cosine-antenna-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/isotropic-antenna-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/parabolic-antenna-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/phased-array-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/three-gpp-antenna-model.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/src/antenna/model/uniform-planar-array.h"
+    "/Users/hoangminh/Network_Simulation/ns-3.39/build/include/ns3/antenna-module.h"
     )
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/antenna/install_local_manifest.txt"
+  file(WRITE "/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/antenna/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 # Utility rule file for check-version.
 
@@ -85,6 +85,6 @@ CMakeFiles/check-version.dir/clean:
 .PHONY : CMakeFiles/check-version.dir/clean
 
 CMakeFiles/check-version.dir/depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles/check-version.dir/DependInfo.cmake "--color=$(COLOR)" check-version
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles/check-version.dir/DependInfo.cmake "--color=$(COLOR)" check-version
 .PHONY : CMakeFiles/check-version.dir/depend
 

@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 # Include any dependencies generated for this target.
 include src/spectrum/CMakeFiles/libspectrum.dir/depend.make
@@ -77,98 +77,98 @@ libspectrum_OBJECTS =
 
 # External object files for target libspectrum
 libspectrum_EXTERNAL_OBJECTS = \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/adhoc-aloha-noack-ideal-phy-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-analyzer-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/tv-spectrum-transmitter-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/waveform-generator-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-mac-header.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-net-device.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/constant-spectrum-propagation-loss.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/friis-spectrum-propagation-loss.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy-signal-parameters.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/ism-spectrum-value-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/matrix-based-channel-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/microwave-oven-spectrum-value-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/two-ray-spectrum-propagation-loss-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/multi-model-spectrum-channel.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/non-communicating-net-device.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/single-model-spectrum-channel.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-analyzer.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-channel.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-converter.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-error-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-interference.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-300kHz-300GHz-log.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-ism2400MHz-res1MHz.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-phy.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-propagation-loss-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-transmit-filter.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/phased-array-spectrum-propagation-loss-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-signal-parameters.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-value.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-channel-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-spectrum-propagation-loss-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/trace-fading-loss-model.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/tv-spectrum-transmitter.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/waveform-generator.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.o"
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/adhoc-aloha-noack-ideal-phy-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-analyzer-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/tv-spectrum-transmitter-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/waveform-generator-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-mac-header.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-net-device.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/constant-spectrum-propagation-loss.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/friis-spectrum-propagation-loss.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy-signal-parameters.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/ism-spectrum-value-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/matrix-based-channel-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/microwave-oven-spectrum-value-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/two-ray-spectrum-propagation-loss-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/multi-model-spectrum-channel.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/non-communicating-net-device.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/single-model-spectrum-channel.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-analyzer.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-channel.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-converter.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-error-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-interference.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-300kHz-300GHz-log.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-ism2400MHz-res1MHz.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-phy.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-propagation-loss-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-transmit-filter.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/phased-array-spectrum-propagation-loss-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-signal-parameters.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-value.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-channel-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-spectrum-propagation-loss-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/trace-fading-loss-model.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/tv-spectrum-transmitter.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/waveform-generator.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.o"
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/adhoc-aloha-noack-ideal-phy-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-analyzer-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/tv-spectrum-transmitter-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/waveform-generator-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-mac-header.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-net-device.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/constant-spectrum-propagation-loss.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/friis-spectrum-propagation-loss.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy-signal-parameters.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/ism-spectrum-value-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/matrix-based-channel-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/microwave-oven-spectrum-value-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/two-ray-spectrum-propagation-loss-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/multi-model-spectrum-channel.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/non-communicating-net-device.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/single-model-spectrum-channel.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-analyzer.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-channel.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-converter.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-error-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-interference.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-300kHz-300GHz-log.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-ism2400MHz-res1MHz.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-phy.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-propagation-loss-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-transmit-filter.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/phased-array-spectrum-propagation-loss-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-signal-parameters.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-value.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-channel-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-spectrum-propagation-loss-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/trace-fading-loss-model.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/tv-spectrum-transmitter.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/waveform-generator.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum.dir/build.make
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib"
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libspectrum.dir/link.txt --verbose=$(VERBOSE)
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/adhoc-aloha-noack-ideal-phy-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-analyzer-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/spectrum-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/tv-spectrum-transmitter-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/helper/waveform-generator-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-mac-header.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/aloha-noack-net-device.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/constant-spectrum-propagation-loss.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/friis-spectrum-propagation-loss.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy-signal-parameters.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/half-duplex-ideal-phy.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/ism-spectrum-value-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/matrix-based-channel-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/microwave-oven-spectrum-value-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/two-ray-spectrum-propagation-loss-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/multi-model-spectrum-channel.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/non-communicating-net-device.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/single-model-spectrum-channel.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-analyzer.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-channel.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-converter.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-error-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-interference.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-300kHz-300GHz-log.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model-ism2400MHz-res1MHz.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-phy.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-propagation-loss-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-transmit-filter.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/phased-array-spectrum-propagation-loss-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-signal-parameters.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/spectrum-value.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-channel-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/three-gpp-spectrum-propagation-loss-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/trace-fading-loss-model.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/tv-spectrum-transmitter.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/waveform-generator.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum-obj.dir/model/wifi-spectrum-value-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum.dir/build.make
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib: src/spectrum/CMakeFiles/libspectrum.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib"
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libspectrum.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/spectrum/CMakeFiles/libspectrum.dir/build: /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-spectrum-default.dylib
+src/spectrum/CMakeFiles/libspectrum.dir/build: /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-spectrum-default.dylib
 .PHONY : src/spectrum/CMakeFiles/libspectrum.dir/build
 
 src/spectrum/CMakeFiles/libspectrum.dir/clean:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum && $(CMAKE_COMMAND) -P CMakeFiles/libspectrum.dir/cmake_clean.cmake
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum && $(CMAKE_COMMAND) -P CMakeFiles/libspectrum.dir/cmake_clean.cmake
 .PHONY : src/spectrum/CMakeFiles/libspectrum.dir/clean
 
 src/spectrum/CMakeFiles/libspectrum.dir/depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/spectrum /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum.dir/DependInfo.cmake "--color=$(COLOR)" libspectrum
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39/src/spectrum /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/spectrum/CMakeFiles/libspectrum.dir/DependInfo.cmake "--color=$(COLOR)" libspectrum
 .PHONY : src/spectrum/CMakeFiles/libspectrum.dir/depend
 

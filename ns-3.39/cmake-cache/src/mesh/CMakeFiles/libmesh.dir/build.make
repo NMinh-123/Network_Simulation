@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 # Include any dependencies generated for this target.
 include src/mesh/CMakeFiles/libmesh.dir/depend.make
@@ -77,88 +77,88 @@ libmesh_OBJECTS =
 
 # External object files for target libmesh
 libmesh_EXTERNAL_OBJECTS = \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/dot11s/dot11s-installer.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/flame/flame-installer.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-stack-installer.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/airtime-metric.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/dot11s-mac-header.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol-mac.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-rtable.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-tag.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-beacon-timing.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-configuration.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-id.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-metric-report.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peer-management.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peering-protocol.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-perr.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-prep.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-preq.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-rann.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link-frame.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol-mac.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-header.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol-mac.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-rtable.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-information-element-vector.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-l2-routing-protocol.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-point-device.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o"
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/dot11s/dot11s-installer.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/flame/flame-installer.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-stack-installer.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/airtime-metric.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/dot11s-mac-header.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol-mac.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-rtable.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-tag.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-beacon-timing.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-configuration.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-id.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-metric-report.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peer-management.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peering-protocol.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-perr.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-prep.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-preq.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-rann.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link-frame.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol-mac.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-header.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol-mac.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-rtable.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-information-element-vector.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-l2-routing-protocol.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-point-device.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o"
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/dot11s/dot11s-installer.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/flame/flame-installer.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-stack-installer.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/airtime-metric.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/dot11s-mac-header.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol-mac.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-rtable.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-tag.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-beacon-timing.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-configuration.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-id.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-metric-report.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peer-management.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peering-protocol.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-perr.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-prep.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-preq.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-rann.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link-frame.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol-mac.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-header.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol-mac.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-rtable.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-information-element-vector.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-l2-routing-protocol.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-point-device.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh.dir/build.make
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib"
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libmesh.dir/link.txt --verbose=$(VERBOSE)
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/dot11s/dot11s-installer.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/flame/flame-installer.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-stack-installer.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/airtime-metric.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/dot11s-mac-header.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol-mac.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-rtable.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-tag.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-beacon-timing.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-configuration.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-id.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-metric-report.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peer-management.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peering-protocol.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-perr.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-prep.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-preq.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-rann.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link-frame.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol-mac.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-header.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol-mac.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-rtable.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-information-element-vector.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-l2-routing-protocol.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-point-device.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh.dir/build.make
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib: src/mesh/CMakeFiles/libmesh.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib"
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libmesh.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/mesh/CMakeFiles/libmesh.dir/build: /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-mesh-default.dylib
+src/mesh/CMakeFiles/libmesh.dir/build: /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-mesh-default.dylib
 .PHONY : src/mesh/CMakeFiles/libmesh.dir/build
 
 src/mesh/CMakeFiles/libmesh.dir/clean:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh && $(CMAKE_COMMAND) -P CMakeFiles/libmesh.dir/cmake_clean.cmake
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh && $(CMAKE_COMMAND) -P CMakeFiles/libmesh.dir/cmake_clean.cmake
 .PHONY : src/mesh/CMakeFiles/libmesh.dir/clean
 
 src/mesh/CMakeFiles/libmesh.dir/depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/mesh /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh.dir/DependInfo.cmake "--color=$(COLOR)" libmesh
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39/src/mesh /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/mesh/CMakeFiles/libmesh.dir/DependInfo.cmake "--color=$(COLOR)" libmesh
 .PHONY : src/mesh/CMakeFiles/libmesh.dir/depend
 

@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39
+CMAKE_SOURCE_DIR = /Users/hoangminh/Network_Simulation/ns-3.39
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache
+CMAKE_BINARY_DIR = /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache
 
 # Include any dependencies generated for this target.
 include src/wimax/CMakeFiles/libwimax.dir/depend.make
@@ -77,118 +77,118 @@ libwimax_OBJECTS =
 
 # External object files for target libwimax
 libwimax_EXTERNAL_OBJECTS = \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/helper/wimax-helper.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cid.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cid-factory.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-net-device.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-net-device.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-net-device.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-header.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-phy.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-channel.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ofdm-downlink-frame-prefix.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-connection.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-record.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/mac-messages.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/dl-mac-messages.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-mac-messages.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-phy.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-channel.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/send-params.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/connection-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-simple.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-mbqos.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-rtps.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-simple.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-rtps.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-queue.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/burst-profile-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-scheduler.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-record.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-link-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-link-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bandwidth-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/crc8.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-job.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-record.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-send-param.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-service-flow-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-service-flow-manager.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier-record.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-tlv.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o" \
-"/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o"
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/helper/wimax-helper.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cid.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cid-factory.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-net-device.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-net-device.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-net-device.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-header.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-phy.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-channel.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ofdm-downlink-frame-prefix.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-connection.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-record.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/mac-messages.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/dl-mac-messages.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-mac-messages.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-phy.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-channel.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/send-params.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/connection-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-simple.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-mbqos.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-rtps.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-simple.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-rtps.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-queue.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/burst-profile-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-scheduler.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-record.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-link-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-link-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bandwidth-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/crc8.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-job.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-record.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-send-param.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-service-flow-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-service-flow-manager.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier-record.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-tlv.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o" \
+"/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o"
 
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/helper/wimax-helper.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid-factory.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-net-device.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-net-device.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-net-device.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-header.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-phy.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-channel.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ofdm-downlink-frame-prefix.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-connection.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-record.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/mac-messages.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/dl-mac-messages.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-mac-messages.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-phy.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-channel.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/send-params.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/connection-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-simple.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-mbqos.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-rtps.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-simple.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-rtps.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-queue.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/burst-profile-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-scheduler.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-record.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-link-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-link-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bandwidth-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/crc8.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-job.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-record.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-send-param.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-service-flow-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-service-flow-manager.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier-record.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-tlv.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax.dir/build.make
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib"
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libwimax.dir/link.txt --verbose=$(VERBOSE)
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/helper/wimax-helper.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid-factory.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-net-device.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-net-device.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-net-device.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-header.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-phy.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-channel.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ofdm-downlink-frame-prefix.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-connection.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-record.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/mac-messages.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/dl-mac-messages.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-mac-messages.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-phy.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-channel.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/send-params.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/connection-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-simple.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-mbqos.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-rtps.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-simple.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-rtps.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-queue.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/burst-profile-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-scheduler.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-record.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-link-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-link-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bandwidth-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/crc8.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-job.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-record.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-send-param.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-service-flow-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-service-flow-manager.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier-record.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-tlv.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax.dir/build.make
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib: src/wimax/CMakeFiles/libwimax.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib"
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libwimax.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/wimax/CMakeFiles/libwimax.dir/build: /Users/hoangminh/ns-allinone-3.39/ns-3.39/build/lib/libns3.39-wimax-default.dylib
+src/wimax/CMakeFiles/libwimax.dir/build: /Users/hoangminh/Network_Simulation/ns-3.39/build/lib/libns3.39-wimax-default.dylib
 .PHONY : src/wimax/CMakeFiles/libwimax.dir/build
 
 src/wimax/CMakeFiles/libwimax.dir/clean:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax && $(CMAKE_COMMAND) -P CMakeFiles/libwimax.dir/cmake_clean.cmake
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax && $(CMAKE_COMMAND) -P CMakeFiles/libwimax.dir/cmake_clean.cmake
 .PHONY : src/wimax/CMakeFiles/libwimax.dir/clean
 
 src/wimax/CMakeFiles/libwimax.dir/depend:
-	cd /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/ns-allinone-3.39/ns-3.39 /Users/hoangminh/ns-allinone-3.39/ns-3.39/src/wimax /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax /Users/hoangminh/ns-allinone-3.39/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax.dir/DependInfo.cmake "--color=$(COLOR)" libwimax
+	cd /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/hoangminh/Network_Simulation/ns-3.39 /Users/hoangminh/Network_Simulation/ns-3.39/src/wimax /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax /Users/hoangminh/Network_Simulation/ns-3.39/cmake-cache/src/wimax/CMakeFiles/libwimax.dir/DependInfo.cmake "--color=$(COLOR)" libwimax
 .PHONY : src/wimax/CMakeFiles/libwimax.dir/depend
 
